@@ -3,14 +3,11 @@ body{
     color: white;
     font-family: Arial;
 }
-h2{
-    background-color: #607d8b;
-    color: #ffffff;
-    text-align: center;
+.title{
+    color: black;
 }
 
 .Test{
-    background-color: aqua;
     color: white;
 }
 img{
