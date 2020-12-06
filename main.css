@@ -1,0 +1,18 @@
+body{
+    background-color: #607d8b;
+    color: white;
+    font-family: Arial;
+}
+h2{
+    background-color: #607d8b;
+    color: #ffffff;
+    text-align: center;
+}
+
+.Test{
+    background-color: aqua;
+    color: white;
+}
+img{
+    width : 20%;
+}
